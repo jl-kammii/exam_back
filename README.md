@@ -1,0 +1,2 @@
+Voici le back end de l'examen me permettant de faire les blagues ainsi que les réponses qui sont tockés dans le data.json, il y a des packages MVC pour découper en couche. le render ne fonctionne pas car le lien n'est pas bon et lorsque je veux le changer et remettre sur github ça ne fonctionne pas. 
+Pour le front c'est un classique mais il ne peux pas fonctionner car le déploiement sur render à fail. 
